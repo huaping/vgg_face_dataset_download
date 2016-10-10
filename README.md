@@ -1,2 +1,2 @@
-# vgg_dataset_download
+# vgg_face_dataset_download
 python script for downloading vgg face dataset
